@@ -7,7 +7,7 @@ import pages.MainPage;
 import pages.RatePage;
 import pages.SuccessPage;
 
-public class LoginTest extends BaseTest{
+public class UiTest extends BaseTest{
 
     @Test(description = "Login test")
     public void loginTest() {
